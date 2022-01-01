@@ -16,6 +16,7 @@ hr {
 p {
   line-height: 2;
   padding-bottom: 25px;
+  color: #cdcdcd;
 }
 
 h1 {
@@ -54,6 +55,7 @@ a:hover {
 .p-intro {
   width: 30%;
   margin: auto;
+  color: #cdcdcd;
 }
 
 .top-container {
